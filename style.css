@@ -9,6 +9,8 @@ $linkColor:#66cc99;
 $boldColor:#4a4e51;
 $time:0.6s;
 
+
+
  
 @mixin breakpoint($point) {
   @if $point == papa-bear {
